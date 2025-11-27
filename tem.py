@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv) != 2
+if len(sys.argv) != 2:
 temp = float(sys.argv[1])
 print(usage:python temp.py <temperature>)
 else:
